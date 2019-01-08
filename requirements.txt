@@ -1,0 +1,7 @@
+tensorflow-gpu
+seaborn
+matplotlib
+pandas
+numpy
+tqdm
+
