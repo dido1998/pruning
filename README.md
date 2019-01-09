@@ -11,11 +11,11 @@ Here to achieve sparsity of k% we rank the the columns of a weight matrix accord
 ## Requirements
 ```
 Tensorflow 1.12.0
-seaborn
-matplotlib
-pandas
-numpy
-tqdm
+seaborn 0.9.0
+matplotlib 3.0.2
+pandas 0.23.4 
+numpy 1.15.4
+tqdm 4.29.0
 ```
 
 
